@@ -92,7 +92,7 @@ header {
 .sec {
   display: grid;
   grid-template-columns: repeat(12, 1fr);
-  background-color: rgb(177, 179, 182);
+  background-color: rgb(236, 241, 249);
 }
 
 .container {
@@ -113,7 +113,9 @@ header {
 .features-image {
   width: 250px;
   height: 250px;
+  box-shadow: 1px 1px 1px black;
 }
+
 
 .last {
   margin-top: 50px;
